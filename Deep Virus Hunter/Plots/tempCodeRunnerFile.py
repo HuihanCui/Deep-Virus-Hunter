@@ -1,0 +1,2 @@
+
+    return np.array(result)
